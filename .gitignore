@@ -6,7 +6,4 @@
 /application/wallet
 
 # DS_Stores
-/.DS_Store
-/application/.DS_Store
-/application/utils/.DS_Store
-/chaincode/.DS_Store
+.DS_Store
