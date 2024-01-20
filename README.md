@@ -106,7 +106,7 @@ Then, deploy the chaincode package cointaining the smart contract with its chann
 
 For more detailed information, visit https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
-### 7. Install and run the app
+### 6. Install and run the app
 
 Go to `multiple-tx/application` to find `app.js`, and then type `npm install` to install the app:
 
