@@ -96,8 +96,6 @@ Go to `/multiple-tx/application/utils` and open `AppUtil.js`, and modify the var
 const ccpPath1 = '/<your path>/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.json';
 const ccpPath2 = '/<your path>/fabric-samples/test-network/organizations/peerOrganizations/org2.example.com/connection-org2.json';
 // !!! SET YOUR 'connection-org2.json' PATH TO HERE !!!
-
-
 ```
 
 Then, deploy the chaincode package cointaining the smart contract with its channel name `branch-tx-demo`, by setting your own path to `multiple-tx/chaincode` directory:
@@ -123,5 +121,5 @@ Then, run this command to run:
 node app.js
 ```
 
-The demo of branching assets throughout the blockchain will start!
+The demo of branching assets throughout the Blockchain will start!
 
